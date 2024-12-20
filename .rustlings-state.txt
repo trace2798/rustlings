@@ -78,3 +78,5 @@ iterators3
 iterators4
 iterators5
 box1
+arc1
+cow1
